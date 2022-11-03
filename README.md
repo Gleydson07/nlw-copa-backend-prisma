@@ -1,1 +1,1 @@
-[Diagrama Entidade Relacional - ERD](./prisma/erd.svg)
+<img src="./prisma/erd.svg"/>
